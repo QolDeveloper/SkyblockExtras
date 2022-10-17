@@ -33,7 +33,8 @@ End Island: Show Soul Flow Display Show Final Destination Display Show Excess Ma
 
 Etherwarp Display: LOS Etherwarp Location Etherwarp Targeted Block Display Unuseable Blocks Etherwarp Unuseable Blocks Display Unknown Blocks Etherwarp Unknown Blocks
 
-----Trackers----
+Trackers
+----
 
 General: Start Session Stop Session
 
@@ -53,7 +54,8 @@ Mythos: Show Mythos Counter Shows Rare Mythos Drops Announce Mythos Loot Ping Ne
 
 Miscellaneous: Show Golem Counter Show Dragon Counter Show Farming Counter Show Ghost Counter Show Legion Counter
 
-----Pets----
+Pets
+----
 
 General: Allow Favoriting Pets Favorites Color Hide Pet Names Hide AutoPet Messages Hide Pet Candies Mute Rat Pet Fix Candy Lore
 
@@ -63,7 +65,8 @@ Pet Display: Use Icon Display Add Pet Text Display Icon Chroma Percentage Change
 
 Pet Menu 呃(UAYOR): Custom Pets Menu Default Pets Menu Square Pet Icons Reorganize Pets Menu Show Pet Favorites Bar Only Pet Favorites Bar Show Lore in Menu Custom Pet Skins Show Percentage in Menu Use Chroma Percentage Percentage Color Custom Pet Colors Render Pet Rarities
 
-----Dungeon----
+Dungeon
+----
 
 General: Show Dungeon Counter Edit Dungeon Floor Show Dungeon Profit Dungeon Profit Display Display Master Souls Cata EXP Tracker Show Frag Counter Show Door Opener Show Dungeon Map Use Chroma Map Remove Armor Stands Show Crypts Counter Spirit Bear Timer
 
@@ -77,7 +80,8 @@ Floor 7: Show Wither Lord Health Hide Ender Dragon Hurt Effect Dragon Health Dis
 
 Solvers: Dungeon Puzzle Timer Blaze Solver Show Next Blaze Next Blaze Color Show Vanilla Blazes Blaze Finished Message Riddle Solver Trivia Solver Water Solver Show Water Path Water Path Color Creeper Solver Teleport Pad Solver Tic Tac Toe Solver Silverfish Solver Ice Solver Box Solver Terminal Solver Middle Click Terminals Only Left Click Colors Hide Zero's on Change Color Terminal Simon Says Solver Show Next SS Click Arrow Solver Shift to Override Arrow Solver
 
-----Quality of Life----
+Quality of Life
+----
 
 General: Search Bar Middle Click SB Menu Hide Item Durability Better Crop Hitboxes Show Cultivating Count Left Click Zapper Undo Show Item Cooldown Track Ability Messages Show Wither Shield Duration Only Show Shield on CD Play Wither Shield Chime Show EXP in Minions
 
